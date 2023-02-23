@@ -9,9 +9,9 @@ You must reach the coin in order to earn points, but be careful not to touch the
 https://user-images.githubusercontent.com/78274961/220794287-aa2fa5ba-fccc-4bf5-98ed-3d4fbe634b6c.mp4
 
 ## tools
--html
--css
--javascript
+-html <br>
+css <br>
+javascript
 
 
 ## site 
